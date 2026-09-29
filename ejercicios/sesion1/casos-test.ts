@@ -54,3 +54,4 @@ casos.forEach(caso => {
 console.log("Conteo por prioridad:", contarPorPrioridad(casos));
 console.log("Casos pendientes:", listarPendientes(casos));
 
+
